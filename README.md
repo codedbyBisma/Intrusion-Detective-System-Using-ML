@@ -53,4 +53,6 @@ This project demonstrates a simple but effective Intrusion Detection System (IDS
 
 ---
 ## 📸 Output ScreenShot
+![image alt](https://github.com/user-attachments/assets/0f48b4a4-f8e8-40c1-9857-3bfa322cf0a6)
 ![image alt]
+
