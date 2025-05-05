@@ -61,6 +61,17 @@ This project demonstrates a simple but effective Intrusion Detection System (IDS
 ![image alt](https://github.com/user-attachments/assets/8ab1d1ff-1d44-4ce2-a7bb-d91e24efbf45)
 ![image alt](https://github.com/user-attachments/assets/3d2cebf6-a33f-4b50-9882-c9b553a31937)
 
+---
+## 🤝 Contributions
+
+Feel free to fork, star ⭐ this repo or suggest improvements!
+
+📄 License
+
+This project is licensed under the [MIT License](LICENSE) - feel free to use, modify, and share with attribution.
 
 
+💻 Author
+
+ . Developed by Bisma
 
