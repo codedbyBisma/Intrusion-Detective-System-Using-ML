@@ -1,4 +1,4 @@
-# 🚨 Intrusion Detection System using Machine Learning
+![image](https://github.com/user-attachments/assets/8c73d49e-99ea-442e-8a42-55131c789b79)# 🚨 Intrusion Detection System using Machine Learning
 
 This project demonstrates a simple but effective Intrusion Detection System (IDS) built using the NSL-KDD dataset. The model detects network intrusions using Random Forest Classifier 🔍🌐
 
@@ -54,5 +54,13 @@ This project demonstrates a simple but effective Intrusion Detection System (IDS
 ---
 ## 📸 Output ScreenShot
 ![image alt](https://github.com/user-attachments/assets/0f48b4a4-f8e8-40c1-9857-3bfa322cf0a6)
-![image alt]
+![image alt](https://github.com/user-attachments/assets/f7088f4e-6865-482f-8fa0-b16ea6f2bb85)
+![image alt](https://github.com/user-attachments/assets/4924f4ff-651c-499d-bf2e-898801359070)
+![image alt](https://github.com/user-attachments/assets/d5d89521-0c6f-44f4-9626-407b651bcef2)
+![image alt](https://github.com/user-attachments/assets/1ea7725a-406a-40a2-85b6-459b1c6c23d4)
+![image alt](https://github.com/user-attachments/assets/8ab1d1ff-1d44-4ce2-a7bb-d91e24efbf45)
+![image alt](https://github.com/user-attachments/assets/3d2cebf6-a33f-4b50-9882-c9b553a31937)
+
+
+
 
